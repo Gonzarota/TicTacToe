@@ -10,6 +10,6 @@ public class Main {
         game.move(2,2);
 
         game.move(0,2);
-        game.move()
+        game.move(1,1);
     }
 }
